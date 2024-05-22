@@ -1,8 +1,9 @@
-## 我是Nami
+## 👋👋我是Nami
 
-- :tulip: I am a Java developer.👨‍💻
+- 👨‍💻 方向：Java后端
 - 🏡 作品：
 - :book: 博客：<a href="https://www.cnblogs.com/techgy" target="_blank">博客园</a>
+- 📫 邮箱：2661837382@qq.com
 
 ### ✨我的技能（My skills）
 ![](https://img.shields.io/badge/-Java-4C7491?style=flat-square&logo=java&logoColor=fff)
