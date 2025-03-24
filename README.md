@@ -3,7 +3,7 @@
 - 👨‍💻 方向：Java后端
 - 🏡 作品：
 - :book: 博客：<a href="https://www.cnblogs.com/techgy" target="_blank">博客园</a>
-- 📫 邮箱：xxx@qq.com
+- 📫 邮箱：nami@mail.ustc.edu.cn
 
 ### ✨我的技能（My skills）
 ![](https://img.shields.io/badge/-Java-3e74a2?style=flat-square&logo=Java&logoColor=fff)
